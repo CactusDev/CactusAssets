@@ -43,6 +43,10 @@ Please keep the cactus logos as provided at a minimum width of 24pixels while ma
 ## Artwork
 At various times CactusDev will use different artwork. Please refrain from using these without express written permission from our team.
 
+### Examples:
+<img src="cactus_winter.png" width="128">
+
+&nbsp; Winter CactusDev
 
 ## Usage
 ### General Usage
