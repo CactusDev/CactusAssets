@@ -22,7 +22,7 @@ You can put the cactus logo on 3 different colors:
 
 &nbsp;#2e3136 &nbsp;&nbsp; #000000 &nbsp;&nbsp; #ffffff
 
-#2e3136 is the preferred color, please use it as often as possible.
+\#2e3136 is the preferred color, please use it as often as possible.
 
 ### Spacing
 Please keep at least a two (3) space distance, or approximately 15 pixels between the CactusDev logo and any text on all sides.
@@ -51,6 +51,11 @@ Please do not use our name, logo, or official artwork (including screenshots) in
 ### In Writing
 CactusDev and CactusBot are always written in the form of the first "C" in Cactus and the "B" in Bot or "D" in Dev capitalized.
 
+* **Correct** - CactusDev
+* **Correct** - CactusBot
+* **Incorrect** - cActusDev, Cactusdev, cactusDev, CACTUSDev, etc.
+* **Incorrect** - cActusBot, Cactusbot, cactusBot, CACTUSBOT, etc.
+
 ### Advertising and promotional materials
 Please do not use our branding on your projects (websites, software, hardware, packaging, physical materials, etc.) without contacting our team prior to get permission.
 
@@ -74,4 +79,4 @@ Examples:
 
 * **Logo following text**: I use CactusBot on Beam! &nbsp; <a href="https://github.com/CactusDev"><img src="cactus_transparent.png" width="24"></a>
 
-* **Logo as a link without text**: &nbsp; <a href="https://github.com/CactusDev/CBAssets/README.md"><img src="cactus_square_grey.png" width="64" alt="CactusDev" title="Check out CactusDev!"></a>
+* **Logo as a link without text**: &nbsp; <a href="https://github.com/CactusDev/CactusAssets#linking-to-cactusdev"><img src="cactus_square_grey.png" width="64" alt="CactusDev" title="Check out CactusDev!"></a>
