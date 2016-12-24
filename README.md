@@ -38,13 +38,13 @@ Examples:
 Please keep the cactus logos as provided at a minimum width of 24pixels while maintaining the original aspect ratio of the logo being used.
 
 ### Examples
-&nbsp; <img src="cactus_square_grey.png" width="256"> &nbsp;&nbsp; <img src="cactus_square_white.png" width="256">
+&nbsp; <img src="cactus_square_grey.png" width="256"> &nbsp; <img src="cactus_square_white.png" width="256">
 
 ## Artwork
 At various times CactusDev will use different artwork. Please refrain from using these without express written permission from our team.
 
 ### Examples:
-<img src="cactus_winter.png" width="256">
+<img src="cactus_winter.png" width="256"> &nbsp; <img src="cactus-present-single.png" width="256">
 
 Winter CactusDev
 
