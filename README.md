@@ -25,7 +25,7 @@ You can put the cactus logo on 3 different colors:
 \#2e3136 is the preferred color, please use it as often as possible.
 
 ### Spacing
-Please keep at least a two (3) space distance, or approximately 15 pixels between the CactusDev logo and any text on all sides.
+Please keep at least a two (2) space distance, or approximately 15 pixels between the CactusDev logo and any text on all sides.
 
 Examples:
 * **Correct** - I use CactusBot, made by CactusDev! &nbsp; <img src="cactus_transparent.png" width="24">
